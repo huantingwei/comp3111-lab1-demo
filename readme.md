@@ -1,2 +1,2 @@
-Name: WEI Huan Ting (Jamie)
-Student ID: 20469903
+Name: WEI Huan Ting
+SID: 20469903
